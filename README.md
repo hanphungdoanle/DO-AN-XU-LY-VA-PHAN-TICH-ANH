@@ -1,0 +1,1 @@
+# -N-X-L-V-PH-N-T-CH-NH
