@@ -25,6 +25,4 @@ Các thuật toán được áp dụng:
 2. Đặng Lê Khánh Ly
 3. Lê Xuân Thành
 4. Lê Hồ Mỹ Loan
-# Phân công công việc:
-# Tiến độ:
-Tuần 1: Tìm hiểu đề tài
+
