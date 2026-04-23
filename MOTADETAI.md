@@ -5,7 +5,6 @@ Hệ thống tích hợp 6 thuật toán xử lý khác nhau, cho phép người
 
 Các tính năng dự tính được thực hiện:
 
-Tính năng chính của hệ thống:
 - Tương tác trực quan: Cho phép người dùng tải lên một bức ảnh bất kỳ từ máy tính.
 - Mô phỏng suy biến: Hỗ trợ tính năng chủ động thêm các loại nhiễu (Nhiễu Gaussian, Nhiễu Salt&Pepper) hoặc tạo hiệu ứng nhòe (Motion blur) vào ảnh gốc để làm dữ liệu thử nghiệm.
 - Xử lý và Khôi phục: Cung cấp bộ lọc tích hợp 6 thuật toán khác nhau để người dùng lựa chọn và áp dụng lên ảnh bị suy biến.
