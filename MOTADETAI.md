@@ -1,6 +1,6 @@
 Đồ án tập trung ứng dụng các kỹ thuật xử lý ảnh để khôi phục ảnh bị suy biến do nhiễu (noise) và nhòe (blur). Tích hợp 6 thuật toán (Lọc trung vị (Median filter) Lấy trung bình ảnh(Image averaging), Lowpass filtering/Box&Gausian filtering), Lọc inverse (iFFT), Lọc Wiener Filtering).
 
-Tên đề tài
+##Tên đề tài
 Ứng dụng các kĩ thuật xử lý ảnh để giải quyết các vấn đề liên quan đến nhiễu và nhòe.
 Mục tiêu dự án
 Dự án tập trung xây dựng một ứng dụng trực quan trên nền tảng Web nhằm tích hợp 6 thuật toán xử lý ảnh, giúp người dùng quan sát quá trình suy biến của ảnh và đánh giá hiệu quả của các phương pháp khôi phục (khử nhiễu và khử nhòe).
