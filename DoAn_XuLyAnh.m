@@ -19,14 +19,14 @@ classdef DoAn_XuLyAnh < matlab.apps.AppBase
         TaiDuLieuPanel             matlab.ui.container.Panel
         TaiAnhButton               matlab.ui.control.Button
         
-        % --- CÁC COMPONENT THÊM MỚI CHO NHIỆM VỤ CỦA LY ---
+        
         XuLyPanel                  matlab.ui.container.Panel
         FilterDropDownLabel        matlab.ui.control.Label
         FilterDropDown             matlab.ui.control.DropDown
         KhoiPhucButton             matlab.ui.control.Button
         MSELabel                   matlab.ui.control.Label
         PSNRLabel                  matlab.ui.control.Label
-        % ---------------------------------------------------
+        
         
         UIAxes3_KhoiPhuc           matlab.ui.control.UIAxes
         UIAxes_Loi                 matlab.ui.control.UIAxes
